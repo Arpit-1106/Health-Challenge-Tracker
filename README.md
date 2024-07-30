@@ -31,7 +31,7 @@ Follow these steps to run the application:-
 
 1. <b>Clone the Repository:</b>
 <p>
-    git clone https://github.com/ichhakumari/health-challenge-tracker-master.git <br>
+    git clone https://github.com/Arpit-1106/health-challenge-tracker <br>
     cd Health-Challenge-Tracker
 </p>
 
